@@ -5,6 +5,7 @@ Bálint Péter, Qinxin Shu, Shuai Xu, Xuening Tian, and Yas Yazdanian
 
 **Supervisors:**  
 Tennour Dahil (TDV), Günter Alce (LTH)
+
 ![Screenshot 2025-02-27 at 13 20 13](https://github.com/user-attachments/assets/8bcc5bd7-dd21-4a48-ae18-a6d3a636448b)
 
 ![Screenshot 2025-02-27 at 13 19 26](https://github.com/user-attachments/assets/11c0515a-a1d5-4079-8713-e2f0eb3b33a5)
